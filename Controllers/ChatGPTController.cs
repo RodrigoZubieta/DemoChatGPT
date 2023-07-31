@@ -10,7 +10,7 @@ namespace DemoChatGPT.Controllers
     {
         public static string _Endpoint = "https://api.openai.com/";
         public static string _URI = "v1/chat/completions";
-        public static string _ApiKey = "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";
+        public static string _ApiKey = "sk-";
 
         public IActionResult Index()
         {
