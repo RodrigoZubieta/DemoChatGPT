@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "A6UdOVdDwmXJare09nE0RH0CTO/NWuDVJgfZUjmBKi3jLACYxXfA3ar24mdqZCnjNl2O1m8xPLQWeB6p1KSP3A==",
+  "success": true,
+  "projectFilePath": "C:\\xGitPersonal\\DemoChatGPT\\DemoChatGPT.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/pricetravel/\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/Alianzas-Comerciales\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/Default\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}
