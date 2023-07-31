@@ -29,3 +29,5 @@ C:\xGitPersonal\DemoChatGPT\obj\Debug\net7.0\refint\DemoChatGPT.dll
 C:\xGitPersonal\DemoChatGPT\obj\Debug\net7.0\DemoChatGPT.pdb
 C:\xGitPersonal\DemoChatGPT\obj\Debug\net7.0\DemoChatGPT.genruntimeconfig.cache
 C:\xGitPersonal\DemoChatGPT\obj\Debug\net7.0\ref\DemoChatGPT.dll
+C:\xGitPersonal\DemoChatGPT\bin\Debug\net7.0\RestSharp.dll
+C:\xGitPersonal\DemoChatGPT\obj\Debug\net7.0\DemoChatGPT.csproj.CopyComplete

@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "A6UdOVdDwmXJare09nE0RH0CTO/NWuDVJgfZUjmBKi3jLACYxXfA3ar24mdqZCnjNl2O1m8xPLQWeB6p1KSP3A==",
+  "dgSpecHash": "vgk/vfpP/YnV1Ia6XL5OP0mCIiVDg1YyKt5gI29SUdg58WWxf0zmLo25JEaL+3Q9MOIBIv1GpXCh738Omj18oQ==",
   "success": true,
   "projectFilePath": "C:\\xGitPersonal\\DemoChatGPT\\DemoChatGPT.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1803",

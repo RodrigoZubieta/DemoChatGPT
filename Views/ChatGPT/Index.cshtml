@@ -1,0 +1,14 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <form action="@Url.Content("~/ChatGPT/index")" method="post">
+            <h3> Request</h3>
+            <input class="form-control" name="request" />
+            <br />
+            <p>
+                @ViewBag.Response
+            </p>
+            <br />
+            <input class="btn btn-primary" type="submit" value="Generate Response" />
+        </form>
+    </div>
+</div>
